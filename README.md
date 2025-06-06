@@ -1,7 +1,9 @@
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luki20091&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) 
   
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
